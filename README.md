@@ -38,6 +38,7 @@ These includes mappings of term to the documents in which the terms are used. Ea
 In order to index the documents, you have to create the file named stopwordlist.txt and the directory, where the documents for the indexing process are stored, and named ft911. This will create forward_index.txt and inverted_index.txt that is used to search for documents by term or applying the term to documents to get the frequency.
 
 
-### By,
-### Name: Reddy Krishna Reddy Yeddula 
-### Mail ID: ReddyKrishnaReddyYeddula@my.unt.edu
+
+#### By,
+#### Name: Reddy Krishna Reddy Yeddula 
+#### Mail ID: ReddyKrishnaReddyYeddula@my.unt.edu
